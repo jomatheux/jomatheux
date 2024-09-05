@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Computer Science student. Ability to solve problems, quick learning, resilience, commitment, excellent interpersonal skills. I look for opportunities to apply and expand my knowledge in a technology company.<br>📚 I'm currently learning Java, Html, Css.<br>🎯 Goals: I want to be a renowned Back-End developer.</p>
+<p align="left">Computer Science student. Ability to solve problems, quick learning, resilience, commitment, excellent interpersonal skills. I look for opportunities to apply and expand my knowledge in a technology company.<br>🎯 Goals: I want to be a renowned Back-End developer.</p>
 
 ###
 
