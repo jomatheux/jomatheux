@@ -39,6 +39,11 @@
 
 ###
 
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Matheus-00875f?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/joão-matheus-magalhães-692074297/)](https://www.linkedin.com/in/joão-matheus-magalhães-692074297/) 
+[![Gmail Badge](https://img.shields.io/badge/-jomatheux@gmail.com-00875f?style=flat-square&logo=Gmail&color=blue&logoColor=white&link=mailto:jomatheux@gmail.com)](mailto:jomatheux@gmail.com)
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jomatheux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jomatheux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
