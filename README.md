@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Computer Science student. Ability to solve problems, quick learning, resilience, commitment, excellent interpersonal skills. I look for opportunities to apply and expand my knowledge in a technology company.<br>🎯 Goals: I want to be a renowned Back-End developer.</p>
+<p align="left">Computer Science student and Developer. Ability to solve problems, quick learning, resilience, commitment, excellent interpersonal skills. I look for opportunities to apply and expand my knowledge in a technology company.<br>🎯 Goals: I want to be a renowned Back-End developer.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,python,react,next,nest,django,spring,mongodb,postgres,mysql,docker,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,php,js,ts,nodejs,react,next,nest,spring,mongodb,postgres,mysql,docker,postman)](https://skillicons.dev)
   
 </div>
 
